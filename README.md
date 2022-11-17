@@ -1,6 +1,6 @@
 # BladeRF SDR asynchronous wrapper
 
-A python wrapper for the bladerf python bindings from Nuand. It provides synchronous as well as asynchronous functionality to send and receive data to and from the BladeRF SDR.
+A python wrapper for the bladerf python bindings from [Nuand](https://github.com/Nuand/bladeRF). It provides synchronous as well as asynchronous functionality to send and receive data to and from the BladeRF SDR.
 
 ## Installation
 - To install the requirements for this package: `python3 -m pip install -r requirements.txt
