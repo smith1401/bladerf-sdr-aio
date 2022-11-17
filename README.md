@@ -3,7 +3,8 @@
 A python wrapper for the bladerf python bindings from Nuand. It provides synchronous as well as asynchronous functionality to send and receive data to and from the BladeRF SDR.
 
 ## Installation
-
+- To install the requirements for this package: `python3 -m pip install -r requirements.txt
+`
 - To install system-wide: `sudo python3 setup.py install`
 - To install for your user: `python3 setup.py install`
 

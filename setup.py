@@ -33,5 +33,5 @@ setup(
     license='MIT',
     keywords='bladerf sdr cffi radio libbladerf asyncio',
     platforms=['any'],
-    install_requires=['cffi', 'bladerf'],
+    install_requires=['cffi', 'bladerf', 'humanize', 'numpy'],
     packages=find_packages(exclude=['tests*']))
